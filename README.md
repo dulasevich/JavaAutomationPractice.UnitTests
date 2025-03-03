@@ -1,2 +1,2 @@
 # dulasevich-JavaAutomationPractice.UnitTests
-Unit tests exercises
+Unit tests exercises with gradle + Junit
